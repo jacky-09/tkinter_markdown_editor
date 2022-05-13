@@ -7,7 +7,7 @@
 这是我自己制作的一款**markdown编辑器**，虽然比较简陋，但是基本功能都存在，适合作为一个入门`Demo`。
 
 ## 快速使用
-打卡命令行，输入如下内容：
+打开命令行，输入如下内容：
 ```bash
 git clone github.com/jackyfzh/tkinter_markdown_editor.git
 cd tkinter_markdown_editor
